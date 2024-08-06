@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class Rick_MortyWikiUITestsLaunchTests: XCTestCase {
+final class RickAndMortyWikiUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
